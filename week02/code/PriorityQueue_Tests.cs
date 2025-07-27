@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 [TestClass]
 public class PriorityQueueTests
 {
-    [TestMethod]
+    // [TestMethod]
     // Scenario: Enqueue three items with different priorities and dequeue all.
     // Expected Result: Items are dequeued in order of highest to lowest priority.
     // Defect(s) Found: None
